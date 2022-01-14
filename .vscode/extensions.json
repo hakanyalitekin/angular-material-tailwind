@@ -1,0 +1,24 @@
+{
+    "recommendations": [
+        "cyrilletuzi.angular-schematics",
+        "angular.ng-template",
+        "johnpapa.angular2",
+        "mikael.angular-beastcode",
+        "johnpapa.angular-essentials",
+        "alexiv.vscode-angular2-files",
+        "msjsdiag.debugger-for-chrome",
+        "1tontech.angular-material",
+        "hardikpthv.angularmaterial",
+        "akamud.vscode-theme-onedark",
+        "formulahendry.auto-rename-tag",
+        "hookyqr.beautify",
+        "equinusocio.vsc-community-material-theme",
+        "dbaeumer.vscode-eslint",
+        "zignd.html-css-class-completion",
+        "esbenp.prettier-vscode",
+        "sibiraj-s.vscode-scss-formatter",
+        "mrmlnc.vscode-scss",
+        "bradlc.vscode-tailwindcss",
+        "loiane.ts-extension-pack"
+    ]
+}
